@@ -42,10 +42,6 @@
 		<id>maven1</id>
 		<name>Maven.org</name>
 		<url>http://repo1.maven.org/maven2</url>
-	    <plugin>
-          <artifactId>maven-compiler-plugin</artifactId>
-          <version>2.3.2</version>
-        </plugin>
 	    </pluginRepository>
 	</pluginRepositories>
 
