@@ -28,12 +28,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://52.66.242.126:8081/repository/vprofile-snapshot/</url>
+		    <url>http://52.66.202.106:8081/repository/vprofile-snapshot/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://52.66.242.126:8081/repository/vprofile-release/</url>
+		    <url>http://52.66.202.106:8081/repository/vprofile-release/</url>
 		</repository>
   	</distributionManagement>
 	
